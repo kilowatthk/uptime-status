@@ -1,7 +1,7 @@
-url: https://api.kilowatt.hk
+url: $API_URL
 status: down
 code: 404
-responseTime: 720
-lastUpdated: 2022-12-27T17:24:21.914Z
+responseTime: 842
+lastUpdated: 2022-12-27T17:33:39.848Z
 startTime: Tue Dec 27 2022 17:24:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
